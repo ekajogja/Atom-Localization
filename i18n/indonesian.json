@@ -1,0 +1,206 @@
+{
+  "menu":{
+    "Atom":{
+        "value":"Atom",
+        "submenu":{
+            "About Atom":{"value":"Tentang Atom"},
+            "View License":{"value":"Baca Lisensi"},
+            "Preferences...":{"value":"Preferensi..."},
+            "Open Your Config":{"value":"Buka Konfigurasi Anda"},
+            "Open Your Init Script":{"value":"Buka Init Script Anda"},
+            "Open Your Keymap":{"value":"Buka Keymap Anda"},
+            "Open Your Snippets":{"value":"Buka Snippets Anda"},
+            "Open Your Stylesheet":{"value":"Buka Stylesheet Anda"},
+            "Install Shell Commands":{"value":"Instal Shell Commands"},
+            "Hide Atom":{"value":"Sembunyikan Atom"},
+            "Hide Others":{"value":"Sembunyikan Lainnya"},
+            "Show All":{"value":"Tampilkan Semua"},
+            "Quit":{"value":"Keluar"},
+            "Restart and Install Update":{"value":"Restart dan Instal Pembaruan"},
+            "Check for Update":{"value":"Periksa Pembaruan"},
+            "Downloading Update":{"value":"Mengunduh Pembaruan"}
+        }
+    },
+    "File":{
+        "value":"File",
+        "submenu":{
+            "New Window":{"value":"Jendela Baru"},
+            "New File":{"value":"File Baru"},
+            "Open...":{"value":"Buka..."},
+            "Reopen Last Item":{"value":"Buka Item Sebelumnya"},
+            "Save":{"value":"Simpan"},
+            "Save As...":{"value":"Simpan Sebagai..."},
+            "Save All":{"value":"Simpan Semua"},
+            "Close Tab":{"value":"Tutup Tab"},
+            "Close Pane":{"value":"Tutup Pane"},
+            "Close Window":{"value":"Tutup Jendela"}
+        }
+    },
+    "Edit":{
+        "value":"Edit",
+        "submenu":{
+            "Undo":{"value":"Undo"},
+            "Redo":{"value":"Redo"},
+            "Cut":{"value":"Potong"},
+            "Copy":{"value":"Salin"},
+            "Copy Path":{"value":"Salin Path"},
+            "Paste":{"value":"Tempel"},
+            "Select All":{"value":"Pilih Semua"},
+            "Toggle Comments":{"value":"Aktifkan Komentar"},
+            "Lines":{
+                "value":"Larik",
+                "submenu":{
+                    "Indent":{"value":"Indent"},
+                    "Outdent":{"value":"Outdent"},
+                    "Auto Indent":{"value":"Auto Indent"},
+                    "Move Line Up":{"value":"Geser Larik ke Atas"},
+                    "Move Line Down":{"value":"Geser Larik ke Bawah"},
+                    "Duplicate Lines":{"value":"Duplikat Larik"},
+                    "Delete Line":{"value":"Hapus Larik"},
+                    "Join Lines":{"value":"Sambungkan Larik"}
+                }
+            },
+            "Text":{
+                "value":"Teks",
+                "submenu":{
+                    "Upper Case":{"value":"Huruf Besar"},
+                    "Lower Case":{"value":"Huruf Kecil"},
+                    "Delete to End of Word":{"value":"Hapus Satu Kata"},
+                    "Delete Line":{"value":"Hapus Satu Larik"},
+                    "Transpose":{"value":"Transpose"}
+                }
+            },
+            "Folding":{
+                "value":"Pelipatan",
+                "submenu":{
+                    "Fold":{"value":"Lipat"},
+                    "Unfold":{"value":"Buka Lipatan"},
+                    "Unfold All":{"value":"Buka Semua Lipatan"},
+                    "Fold All":{"value":"Lipat Semua"},
+                    "Fold Level 1":{"value":"Lipat Level 1"},
+                    "Fold Level 2":{"value":"Lipat Level 2"},
+                    "Fold Level 3":{"value":"Lipat Level 3"},
+                    "Fold Level 4":{"value":"Lipat Level 4"},
+                    "Fold Level 5":{"value":"Lipat Level 5"},
+                    "Fold Level 6":{"value":"Lipat Level 6"},
+                    "Fold Level 7":{"value":"Lipat Level 7"},
+                    "Fold Level 8":{"value":"Lipat Level 8"},
+                    "Fold Level 9":{"value":"Lipat Level 9"}
+                }
+            },
+            "Select Encoding":{"value":"Pilih Encoding"},
+            "Go to Line":{"value":"Pindah ke Larik"},
+            "Reflow Paragraph":{"value":"Rapikan Paragraf"},
+            "Reflow Selection":{"value":"Rapikan Seleksi"},
+            "Bookmark":{
+                "value":"Bookmark",
+                "submenu":{
+                    "View All":{"value":"Tampilkan Semua"},
+                    "Toggle Bookmark":{"value":"Aktifkan Bookmark"},
+                    "Jump to Next Bookmark":{"value":"Lompat ke Bookmark Berikutnya"},
+                    "Jump to Previous Bookmark":{"value":"Lompat ke Bookmark Sebelumnya"}
+                }
+            },
+            "Select Grammar":{"value":"Pilih Bahasa"}
+        }
+    },
+    "Selection":{
+        "value":"Seleksi",
+        "submenu":{
+            "Add Selection Above":{"value":"Tambahkan Seleksi di Atas"},
+            "Add Selection Below":{"value":"Tambahkan Seleksi di Bawah"},
+            "Single Selection":{"value":"Seleksi Tunggal"},
+            "Split into Lines":{"value":"Pecah ke Beberapa Larik"},
+            "Select to Top":{"value":"Seleksi sampai Puncak"},
+            "Select to Bottom":{"value":"Seleksi sampai Dasar"},
+            "Select Line":{"value":"Seleksi Larik"},
+            "Select Word":{"value":"Seleksi Kata"},
+            "Select to Beginning of Word":{"value":"Seleksi sampai Awal Kata"},
+            "Select to Beginning of Line":{"value":"Seleksi sampai Awal Larik"},
+            "Select to First Character of Line":{"value":"Seleksi sampai Karakter Pertama dalam Larik"},
+            "Select to End of Word":{"value":"Seleksi sampai Akhir Kata"},
+            "Select to End of Line":{"value":"Seleksi sampai Akhir Larik"}
+        }
+    },
+    "Find":{
+        "value":"Temukan",
+        "submenu":{
+            "Find in Buffer":{"value":"Cari di Buffer"},
+            "Replace in Buffer":{"value":"Gantikan di Buffer"},
+            "Select Next":{"value":"Pilih Berikutnya"},
+            "Select All":{"value":"Pilih Semua"},
+            "Toggle Find in Buffer":{"value":"Aktifkan Pencarian di Buffer"},
+            "Find in Project":{"value":"Cari di Proyek"},
+            "Toggle Find in Project":{"value":"Aktifkan Pencarian di Proyek"},
+            "Find Next":{"value":"Cari Berikutnya"},
+            "Find Previous":{"value":"Cari Sebelumnya"},
+            "Replace Next":{"value":"Gantikan Berikutnya"},
+            "Replace All":{"value":"Gantikan Semua"},
+            "Find Buffer":{"value":"Cari Buffer"},
+            "Find File":{"value":"Cari File"},
+            "Find Modified File":{"value":"Cari File Termodifikasi"}
+        }
+    },
+    "View":{
+        "value":"Tampilan",
+        "submenu":{
+            "Reload":{"value":"Muat Ulang"},
+            "Toggle Full Screen":{"value":"Aktifkan Layar Penuh"},
+            "Panes":{
+                "value":"Pane",
+                "submenu":{
+                    "Split Up":{"value":"Belah ke Atas"},
+                    "Split Down":{"value":"Belah ke Bawah"},
+                    "Split Left":{"value":"Belah ke Kiri"},
+                    "Split Right":{"value":"Belah ke Kanan"},
+                    "Focus Next Pane":{"value":"Fokus Pane Berikutnya"},
+                    "Focus Previous Pane":{"value":"Fokus Pane Sebelumnya"},
+                    "Focus Pane Above":{"value":"Fokus Pane di Atas"},
+                    "Focus Pane Below":{"value":"Fokus Pane di Bawah"},
+                    "Focus Pane On Left":{"value":"Fokus Pane di Kiri"},
+                    "Focus Pane On Right":{"value":"Fokus Pane di Kanan"},
+                    "Close Pane":{"value":"Tutup Pane"}
+                }
+            },
+            "Developer":{
+                "value":"Pengembang",
+                "submenu":{
+                    "Open In Dev Mode...":{"value":"Buka dalam Mode Pengembang"},
+                    "Run Atom Specs":{"value":"Jalankan Spek Atom"},
+                    "Run Package Specs":{"value":"Jalankan Spek Paket"},
+                    "Toggle Developer Tools":{"value":"Aktifkan Perkakas Pengembang"}
+                }
+            },
+            "Toggle Soft Wrap":{"value":"Aktifkan Soft Wrap"},
+            "Toggle Command Palette":{"value":"Aktifkan Command Palette"},
+            "Toggle Tree View":{"value":"Aktifkan Tampilan Tree"},
+            "Toggle Tree Side":{"value":"Aktifkan Bilah Tree"}
+        }
+    },
+    "Packages":{
+        "value":"Paket"
+    },
+    "Window":{
+        "value":"Jendela",
+        "submenu":{
+            "Minimize":{"value":"Minimize"},
+            "Zoom":{"value":"Zoom"},
+            "Bring All to Front":{"value":"Kedepankan Semua"}
+        }
+    },
+    "Help":{
+        "value":"Bantuan",
+        "submenu":{
+            "Terms of Use":{"value":"Ketentuan Penggunaan"},
+            "Documentation":{"value":"Dokumentasi"},
+            "Roadmap":{"value":"Roadmap"},
+            "Frequently Asked Questions":{"value":"Pertanyaan Umum"},
+            "Community Discussions":{"value":"Diskusi Komunitas"},
+            "Report Issue":{"value":"Laporkan Isu"},
+            "Search Issue":{"value":"Cari Isu"},
+            "Send Feedback":{"value":"Kirim Masukan"},
+            "Release Notes":{"value":"Catatan Rilis"}
+        }
+    }
+  }
+}
